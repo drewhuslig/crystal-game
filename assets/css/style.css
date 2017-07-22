@@ -1,0 +1,46 @@
+body{
+    color: white;
+    background-color: darkgrey;
+}
+
+#title{
+    padding: 15px;
+    background-color: midnightblue;
+}
+
+#instructions{
+    padding: 15px;
+    background-color: darkcyan;
+}
+
+.goal{
+    padding: 15px;
+    background-color: darkgoldenrod;
+}
+
+#goal{
+    padding: 10px;
+    margin-left: 10px;
+    background-color: darkred;
+}
+
+#wl{
+    padding: 10px;
+    margin-left: 10px;
+    background-color: darkred;
+}
+
+.images{
+    padding: 15px;
+    background-color: darkgreen;
+}
+
+#scoreText{
+    padding: 15px;
+    background-color: darkorchid;
+}
+
+#score{
+    padding: 15px;
+    background-color: darkmagenta;
+}
